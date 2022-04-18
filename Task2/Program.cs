@@ -8,6 +8,6 @@
 
 int  [] array = {1,2,3,4,213,432,45,56,657};
 
-int max = Max(Max(a[0],a[1],a[2]),Max(a[3],a[4],a[5]),Max(a[6],a[7],arg1[8]));
+int max = Max(Max(array[0],array[1],array[2]),Max(array[3],array[4],array[5]),Max(array[6],array[7],array[8]));
 
 Console.WriteLine (max);
